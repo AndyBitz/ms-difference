@@ -5,5 +5,4 @@ node_modules
 .next
 
 # logs
-.DS_Store
 *.log
